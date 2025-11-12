@@ -14,16 +14,28 @@
 ---
 
 ### 🌍 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-weda-410303274/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-weda-663228355) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RobertWeda) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://robertweda.my.canva.site/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://portfolio-smoky-eight-89.vercel.app)
 
 ---
 
 ### 🛠️ Tech Stack
-**Frontend:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)  
-**Backend:** ![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-**Tools:** ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress) ![Adobe](https://img.shields.io/badge/-Adobe-FF0000?style=flat&logo=adobe) ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva)
+**Frontend:**  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
+
+**Backend:**  
+![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Tools & Platforms:**  
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress)
+![Adobe](https://img.shields.io/badge/-Adobe-FF0000?style=flat&logo=adobe)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
 ---
 
@@ -46,8 +58,8 @@
 
 ### 🎯 Currently Working On
 - Expanding **WedaWeb** as a full-fledged web agency  
-- Learning **Next.js** & **AI automation tools**  
-- Building creative digital products for clients  
+- Learning **Next.js**, **AI automation**, and **n8n** workflows  
+- Building creative digital products & CMS-driven web apps  
 
 ---
 
