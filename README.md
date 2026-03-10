@@ -28,8 +28,6 @@ I don’t just build websites — I build digital infrastructure.
 
 - 🌐 Portfolio: https://portfolio-smoky-eight-89.vercel.app/
 - 💻 GitHub: https://github.com/r-weda
-- - 💼 Upwork: https://www.upwork.com/freelancers/~01c3a7a404f9c0e88c
-- 🔗 LinkedIn: https://www.linkedin.com/in/robert-weda-410303274/
 - 🐦 X (Twitter): https://x.com/RobertWeda
 
 ---
